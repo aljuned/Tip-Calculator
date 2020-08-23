@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_card {
+    padding: 50px 30px;
+    background-color: rgb(150, 181, 139);
+    margin-top: 100px;
+    border-radius: 20px;
+}
+
+label {
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+#btn {
+    margin-top: 25px;
+}
